@@ -286,6 +286,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: fidaear@example.com
+- 📧 Email: fidaear@gmail.com
 - 🐛 Create an [Issue](https://github.com/fidaear/Hospital-Appointment-Manager/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/fidaear/Hospital-Appointment-Manager/discussions)
