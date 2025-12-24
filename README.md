@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![MongoDB]([https://img.shields.io/badge/MySQL-8.0-orange](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white))
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A comprehensive hospital appointment management system built with Java Spring Boot that streamlines patient scheduling, doctor management, and medical appointment coordination.
