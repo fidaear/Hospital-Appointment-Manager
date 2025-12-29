@@ -62,7 +62,7 @@ A comprehensive hospital appointment management system built with Java Spring Bo
 - **Spring MVC**
 
 ### Database
-- **MySQL 8.0**
+- **MongoDB 3.0**
 - **Hibernate ORM**
 - Database migration tools
 
